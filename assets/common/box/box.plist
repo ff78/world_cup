@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>frames</key>
+		<dict>
+			<key>common/box/btn_cancle.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{191,80},{192,69}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{192,69}</string>
+			</dict>
+			<key>common/box/btn_close.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{385,80},{82,82}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{82,82}</string>
+			</dict>
+			<key>common/box/btn_ok.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{191,151},{192,68}}</string>
+				<key>offset</key>
+				<string>{0,-1}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{192,69}</string>
+			</dict>
+			<key>common/box/msg_bg.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,80},{188,124}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{188,124}</string>
+			</dict>
+			<key>common/box/title.png</key>
+			<dict>
+				<key>frame</key>
+				<string>{{1,1},{492,77}}</string>
+				<key>offset</key>
+				<string>{0,0}</string>
+				<key>rotated</key>
+				<false />
+				<key>sourceSize</key>
+				<string>{492,77}</string>
+			</dict>
+		</dict>
+		<key>metadata</key>
+		<dict>
+			<key>format</key>
+			<integer>2</integer>
+			<key>textureFileName</key>
+			<string>box.png</string>
+			<key>realTextureFileName</key>
+			<string>box.png</string>
+			<key>size</key>
+			<string>{494,220}</string>
+		</dict>
+		<key>texture</key>
+		<dict>
+			<key>width</key>
+			<integer>494</integer>
+			<key>height</key>
+			<integer>220</integer>
+		</dict>
+	</dict>
+</plist>
